@@ -222,3 +222,15 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+
+
+Number and name of feature: _____________portfolio___________________
+
+Estimate of time needed to complete: __1 hour___
+
+Start time: ___2:15 pm__
+
+Finish time: __3:30 pm___
+
+Actual time needed to complete: __1 hour___
